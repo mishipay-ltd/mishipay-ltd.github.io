@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8AJR8TELXR.com.mishipay.app.MishiPay",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

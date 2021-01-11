@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mishipay.mainapp",
+      "sha256_cert_fingerprints": [
+        "10:67:45:D3:B9:85:94:B5:23:DB:2A:48:E5:D0:F8:2E:44:7D:6E:23:14:63:FD:F7:51:02:B3:6B:0D:1F:B1:31"
+      ]
+    }
+  }
+]
